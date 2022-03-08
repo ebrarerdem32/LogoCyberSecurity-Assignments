@@ -7,6 +7,10 @@ Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 ![proje_ss](https://user-images.githubusercontent.com/89356076/157280156-685ed4e5-453a-4184-a669-48f3a8669d02.JPG)
 
 ## Project setup
+
+```
+npm install -g @vue/cli
+```
 ```
 npm install
 ```
